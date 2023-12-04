@@ -114,4 +114,5 @@ The following microcontrollers are currently supported:
 | [DPDT Relay](../parts/wokwi-ks2e-m-dc5)         | Double Pole Double Throw (DPDT) Relay   |
 | Breadboard                                      | Standard, half and mini sizes available |
 | [Logic Analyzer](../parts/wokwi-logic-analyzer) | 8-Channel Digital Logic Analyzer        |
-| [microSD card](../parts/wokwi-microsd-card)     | microSD card with SPI interface         |
+| [microSD card](../parts/wokwi-microsd-card)     | microSD card with SPI interface  
+| [L298N motor driver ](../parts/wokwi-Motor-Driver) L298N, drives 4 DC motors
